@@ -1,0 +1,3 @@
+juan,juan@empresa.com,25,calidad,500
+maria,maria@empresa.com,26,recursos_humanos,550
+cariberto,churchil@chengin.com,500,churchil,0
