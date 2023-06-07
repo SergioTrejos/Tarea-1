@@ -8,7 +8,7 @@ Las instrucciones no eran claras, así que se intentó realizar el programa a co
 
 ## Instrucciones
 
-Ejecute el programa llamado: "empresa.py"
+Ejecute el programa llamado: "empresa.py".
 
 ## Nota
 
